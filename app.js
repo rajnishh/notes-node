@@ -2,7 +2,6 @@
 const notes = require('./notes');
 const _ = require('lodash');
 const yargs = require('yargs');
-
 const fs = require('fs');
 
 const argv = yargs.argv;
